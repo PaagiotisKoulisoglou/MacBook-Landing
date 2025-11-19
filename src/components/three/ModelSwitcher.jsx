@@ -1,7 +1,7 @@
 import {useCallback, useRef} from "react";
 import {PresentationControls} from "@react-three/drei";
 import MacbookModel14 from "../models/Macbook-14.jsx";
-import MacbookModel16 from "../models/Macbook-16.jsx";
+import {MacbookModel16} from "../models/Macbook-16.jsx";
 import gsap from "gsap";
 import {useGSAP} from "@gsap/react";
 
